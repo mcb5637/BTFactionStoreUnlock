@@ -1,0 +1,10 @@
+﻿{
+  "Name": "BTFactionStoreUnlock",
+  "Enabled": true,
+
+  "Description": "Unlocks all faction stores.",
+  "Author": "mcb",
+  "Website": "https://github.com/mcb5637/BTFactionStoreUnlock",
+
+  "DLL": "BTFactionStoreUnlock.dll"
+}

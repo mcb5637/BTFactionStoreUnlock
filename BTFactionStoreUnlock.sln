@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTFactionStoreUnlock", "BTFactionStoreUnlock\BTFactionStoreUnlock.csproj", "{4E2886F2-A6E9-4616-8850-ADAA2F5C58AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E2886F2-A6E9-4616-8850-ADAA2F5C58AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E2886F2-A6E9-4616-8850-ADAA2F5C58AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E2886F2-A6E9-4616-8850-ADAA2F5C58AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E2886F2-A6E9-4616-8850-ADAA2F5C58AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08C666C1-638E-46F9-8A23-E12738C58FA3}
+	EndGlobalSection
+EndGlobal
